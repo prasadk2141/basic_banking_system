@@ -6,5 +6,5 @@ has to be created with dummy 10 users and transaction to be made between them .
 
 Technologies:
 -HTML,CSS as a frontend.   
--PHP as backend.
+-PHP as backend. 
 -MYSQL as a database. 
